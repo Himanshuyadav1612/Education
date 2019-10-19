@@ -2,3 +2,4 @@
 Beginner
 Learner
 Speaker
+Smarter
